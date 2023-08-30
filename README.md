@@ -1,3 +1,5 @@
+![Ecommerce Shopping Cart](store/public/as.png)
+
 This is a full-stack web application that simulates an ecommerce shopping experience. Users can browse products, add them to the cart, and proceed to checkout using the Stripe API for payment processing.
 
 ---

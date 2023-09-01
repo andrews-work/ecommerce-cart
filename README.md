@@ -79,7 +79,7 @@ None
 ## Installation
 
 1. Clone the repository using: `git clone [repository URL]`
-2. Navigate to the project directory: `cd ecommerce-shopping-cart`
+2. Navigate to the project directory: `cd store`
 3. Install backend dependencies: `npm install` (from the root directory)
 4. Install frontend dependencies: `npm install` (from the client directory)
 
